@@ -1,0 +1,891 @@
+[
+ {
+  "start": 0.0,
+  "end": 6.74,
+  "text": " 26 de abril de 1986, usina nuclear de Chernobyl, Ucrânia Soviética.",
+  "words": [
+   [
+    0.0,
+    0.92,
+    " 26"
+   ],
+   [
+    0.92,
+    1.16,
+    " de"
+   ],
+   [
+    1.16,
+    1.42,
+    " abril"
+   ],
+   [
+    1.42,
+    1.68,
+    " de"
+   ],
+   [
+    1.68,
+    3.1,
+    " 1986,"
+   ],
+   [
+    3.58,
+    3.84,
+    " usina"
+   ],
+   [
+    3.84,
+    4.24,
+    " nuclear"
+   ],
+   [
+    4.24,
+    4.48,
+    " de"
+   ],
+   [
+    4.48,
+    5.16,
+    " Chernobyl,"
+   ],
+   [
+    5.52,
+    5.86,
+    " Ucrânia"
+   ],
+   [
+    5.86,
+    6.74,
+    " Soviética."
+   ]
+  ]
+ },
+ {
+  "start": 7.44,
+  "end": 12.54,
+  "text": " A 1h23 da madrugada, um operador do Reator 4 aperta o botão de desligamento de emergência.",
+  "words": [
+   [
+    7.44,
+    7.54,
+    " A"
+   ],
+   [
+    7.54,
+    8.12,
+    " 1h23"
+   ],
+   [
+    8.12,
+    8.3,
+    " da"
+   ],
+   [
+    8.3,
+    8.8,
+    " madrugada,"
+   ],
+   [
+    9.14,
+    9.3,
+    " um"
+   ],
+   [
+    9.3,
+    9.66,
+    " operador"
+   ],
+   [
+    9.66,
+    9.86,
+    " do"
+   ],
+   [
+    9.86,
+    10.18,
+    " Reator"
+   ],
+   [
+    10.18,
+    10.5,
+    " 4"
+   ],
+   [
+    10.5,
+    10.84,
+    " aperta"
+   ],
+   [
+    10.84,
+    10.98,
+    " o"
+   ],
+   [
+    10.98,
+    11.18,
+    " botão"
+   ],
+   [
+    11.18,
+    11.42,
+    " de"
+   ],
+   [
+    11.42,
+    11.86,
+    " desligamento"
+   ],
+   [
+    11.86,
+    12.06,
+    " de"
+   ],
+   [
+    12.06,
+    12.54,
+    " emergência."
+   ]
+  ]
+ },
+ {
+  "start": 13.08,
+  "end": 15.18,
+  "text": " O botão encerrava um teste de segurança.",
+  "words": [
+   [
+    13.08,
+    13.24,
+    " O"
+   ],
+   [
+    13.24,
+    13.54,
+    " botão"
+   ],
+   [
+    13.54,
+    14.08,
+    " encerrava"
+   ],
+   [
+    14.08,
+    14.24,
+    " um"
+   ],
+   [
+    14.24,
+    14.52,
+    " teste"
+   ],
+   [
+    14.52,
+    14.82,
+    " de"
+   ],
+   [
+    14.82,
+    15.18,
+    " segurança."
+   ]
+  ]
+ },
+ {
+  "start": 15.78,
+  "end": 20.28,
+  "text": " Queriam saber se as turbinas, ao desacelerar, ainda alimentariam as bombas de resfriamento.",
+  "words": [
+   [
+    15.78,
+    15.98,
+    " Queriam"
+   ],
+   [
+    15.98,
+    16.22,
+    " saber"
+   ],
+   [
+    16.22,
+    16.36,
+    " se"
+   ],
+   [
+    16.36,
+    16.52,
+    " as"
+   ],
+   [
+    16.52,
+    17.06,
+    " turbinas,"
+   ],
+   [
+    17.06,
+    17.26,
+    " ao"
+   ],
+   [
+    17.26,
+    18.06,
+    " desacelerar,"
+   ],
+   [
+    18.34,
+    18.48,
+    " ainda"
+   ],
+   [
+    18.48,
+    19.04,
+    " alimentariam"
+   ],
+   [
+    19.04,
+    19.3,
+    " as"
+   ],
+   [
+    19.3,
+    19.52,
+    " bombas"
+   ],
+   [
+    19.52,
+    19.78,
+    " de"
+   ],
+   [
+    19.78,
+    20.28,
+    " resfriamento."
+   ]
+  ]
+ },
+ {
+  "start": 20.78,
+  "end": 22.66,
+  "text": " O teste já atrasara 10 horas.",
+  "words": [
+   [
+    20.78,
+    20.96,
+    " O"
+   ],
+   [
+    20.96,
+    21.28,
+    " teste"
+   ],
+   [
+    21.28,
+    21.52,
+    " já"
+   ],
+   [
+    21.52,
+    21.92,
+    " atrasara"
+   ],
+   [
+    21.92,
+    22.16,
+    " 10"
+   ],
+   [
+    22.16,
+    22.66,
+    " horas."
+   ]
+  ]
+ },
+ {
+  "start": 23.22,
+  "end": 26.06,
+  "text": " Durante a preparação, a potência caiu abaixo do previsto.",
+  "words": [
+   [
+    23.22,
+    23.5,
+    " Durante"
+   ],
+   [
+    23.5,
+    23.66,
+    " a"
+   ],
+   [
+    23.66,
+    24.12,
+    " preparação,"
+   ],
+   [
+    24.42,
+    24.56,
+    " a"
+   ],
+   [
+    24.56,
+    24.82,
+    " potência"
+   ],
+   [
+    24.82,
+    25.16,
+    " caiu"
+   ],
+   [
+    25.16,
+    25.48,
+    " abaixo"
+   ],
+   [
+    25.48,
+    25.68,
+    " do"
+   ],
+   [
+    25.68,
+    26.06,
+    " previsto."
+   ]
+  ]
+ },
+ {
+  "start": 26.06,
+  "end": 30.34,
+  "text": " Os operadores retiraram quase todas as barras de controle para recuperá-la.",
+  "words": [
+   [
+    26.06,
+    26.6,
+    " Os"
+   ],
+   [
+    26.6,
+    27.14,
+    " operadores"
+   ],
+   [
+    27.14,
+    27.66,
+    " retiraram"
+   ],
+   [
+    27.66,
+    28.08,
+    " quase"
+   ],
+   [
+    28.08,
+    28.34,
+    " todas"
+   ],
+   [
+    28.34,
+    28.56,
+    " as"
+   ],
+   [
+    28.56,
+    28.7,
+    " barras"
+   ],
+   [
+    28.7,
+    28.92,
+    " de"
+   ],
+   [
+    28.92,
+    29.18,
+    " controle"
+   ],
+   [
+    29.18,
+    29.44,
+    " para"
+   ],
+   [
+    29.44,
+    29.86,
+    " recuperá"
+   ],
+   [
+    29.86,
+    30.34,
+    "-la."
+   ]
+  ]
+ },
+ {
+  "start": 30.54,
+  "end": 32.22,
+  "text": " Isso deixou o reator instável.",
+  "words": [
+   [
+    30.54,
+    30.84,
+    " Isso"
+   ],
+   [
+    30.84,
+    31.18,
+    " deixou"
+   ],
+   [
+    31.18,
+    31.32,
+    " o"
+   ],
+   [
+    31.32,
+    31.58,
+    " reator"
+   ],
+   [
+    31.58,
+    32.22,
+    " instável."
+   ]
+  ]
+ },
+ {
+  "start": 32.8,
+  "end": 35.52,
+  "text": " Quando o botão foi pressionado, a potência disparou.",
+  "words": [
+   [
+    32.8,
+    33.0,
+    " Quando"
+   ],
+   [
+    33.0,
+    33.16,
+    " o"
+   ],
+   [
+    33.16,
+    33.32,
+    " botão"
+   ],
+   [
+    33.32,
+    33.48,
+    " foi"
+   ],
+   [
+    33.48,
+    34.1,
+    " pressionado,"
+   ],
+   [
+    34.26,
+    34.4,
+    " a"
+   ],
+   [
+    34.4,
+    34.7,
+    " potência"
+   ],
+   [
+    34.7,
+    35.52,
+    " disparou."
+   ]
+  ]
+ },
+ {
+  "start": 36.04,
+  "end": 38.12,
+  "text": " Duas explosões abriram o teto do prédio.",
+  "words": [
+   [
+    36.04,
+    36.34,
+    " Duas"
+   ],
+   [
+    36.34,
+    36.8,
+    " explosões"
+   ],
+   [
+    36.8,
+    37.24,
+    " abriram"
+   ],
+   [
+    37.24,
+    37.4,
+    " o"
+   ],
+   [
+    37.4,
+    37.56,
+    " teto"
+   ],
+   [
+    37.56,
+    37.76,
+    " do"
+   ],
+   [
+    37.76,
+    38.12,
+    " prédio."
+   ]
+  ]
+ },
+ {
+  "start": 38.6,
+  "end": 42.16,
+  "text": " Em minutos, bombeiros chegaram para combater o fogo no telhado.",
+  "words": [
+   [
+    38.6,
+    38.76,
+    " Em"
+   ],
+   [
+    38.76,
+    39.32,
+    " minutos,"
+   ],
+   [
+    39.62,
+    39.92,
+    " bombeiros"
+   ],
+   [
+    39.92,
+    40.32,
+    " chegaram"
+   ],
+   [
+    40.32,
+    40.54,
+    " para"
+   ],
+   [
+    40.54,
+    40.86,
+    " combater"
+   ],
+   [
+    40.86,
+    41.08,
+    " o"
+   ],
+   [
+    41.08,
+    41.24,
+    " fogo"
+   ],
+   [
+    41.24,
+    41.36,
+    " no"
+   ],
+   [
+    41.36,
+    42.16,
+    " telhado."
+   ]
+  ]
+ },
+ {
+  "start": 42.42,
+  "end": 44.6,
+  "text": " Nenhuma evacuação foi ordenada naquela noite.",
+  "words": [
+   [
+    42.42,
+    42.78,
+    " Nenhuma"
+   ],
+   [
+    42.78,
+    43.32,
+    " evacuação"
+   ],
+   [
+    43.32,
+    43.5,
+    " foi"
+   ],
+   [
+    43.5,
+    43.94,
+    " ordenada"
+   ],
+   [
+    43.94,
+    44.26,
+    " naquela"
+   ],
+   [
+    44.26,
+    44.6,
+    " noite."
+   ]
+  ]
+ },
+ {
+  "start": 45.3,
+  "end": 48.76,
+  "text": " Pripyat, a cidade vizinha, só foi esvaziada na tarde seguinte.",
+  "words": [
+   [
+    45.3,
+    45.8,
+    " Pripyat,"
+   ],
+   [
+    45.96,
+    46.12,
+    " a"
+   ],
+   [
+    46.12,
+    46.34,
+    " cidade"
+   ],
+   [
+    46.34,
+    46.78,
+    " vizinha,"
+   ],
+   [
+    47.12,
+    47.18,
+    " só"
+   ],
+   [
+    47.18,
+    47.38,
+    " foi"
+   ],
+   [
+    47.38,
+    47.92,
+    " esvaziada"
+   ],
+   [
+    47.92,
+    48.12,
+    " na"
+   ],
+   [
+    48.12,
+    48.38,
+    " tarde"
+   ],
+   [
+    48.38,
+    48.76,
+    " seguinte."
+   ]
+  ]
+ },
+ {
+  "start": 49.42,
+  "end": 52.66,
+  "text": " Cerca de 49 mil pessoas partiram com poucos pertences.",
+  "words": [
+   [
+    49.42,
+    49.7,
+    " Cerca"
+   ],
+   [
+    49.7,
+    49.9,
+    " de"
+   ],
+   [
+    49.9,
+    50.34,
+    " 49"
+   ],
+   [
+    50.34,
+    50.66,
+    " mil"
+   ],
+   [
+    50.66,
+    51.08,
+    " pessoas"
+   ],
+   [
+    51.08,
+    51.54,
+    " partiram"
+   ],
+   [
+    51.54,
+    51.78,
+    " com"
+   ],
+   [
+    51.78,
+    52.1,
+    " poucos"
+   ],
+   [
+    52.1,
+    52.66,
+    " pertences."
+   ]
+  ]
+ },
+ {
+  "start": 52.66,
+  "end": 57.44,
+  "text": " Dois dias depois, sensores de uma usina sueca detectaram a radiação.",
+  "words": [
+   [
+    52.66,
+    53.7,
+    " Dois"
+   ],
+   [
+    53.7,
+    53.88,
+    " dias"
+   ],
+   [
+    53.88,
+    54.42,
+    " depois,"
+   ],
+   [
+    54.8,
+    55.12,
+    " sensores"
+   ],
+   [
+    55.12,
+    55.24,
+    " de"
+   ],
+   [
+    55.24,
+    55.38,
+    " uma"
+   ],
+   [
+    55.38,
+    55.7,
+    " usina"
+   ],
+   [
+    55.7,
+    56.06,
+    " sueca"
+   ],
+   [
+    56.06,
+    56.62,
+    " detectaram"
+   ],
+   [
+    56.62,
+    56.78,
+    " a"
+   ],
+   [
+    56.78,
+    57.44,
+    " radiação."
+   ]
+  ]
+ },
+ {
+  "start": 57.86,
+  "end": 59.78,
+  "text": " Só então o Moscou reconheceu o acidente.",
+  "words": [
+   [
+    57.86,
+    57.96,
+    " Só"
+   ],
+   [
+    57.96,
+    58.3,
+    " então"
+   ],
+   [
+    58.3,
+    58.48,
+    " o"
+   ],
+   [
+    58.48,
+    58.78,
+    " Moscou"
+   ],
+   [
+    58.78,
+    59.24,
+    " reconheceu"
+   ],
+   [
+    59.24,
+    59.42,
+    " o"
+   ],
+   [
+    59.42,
+    59.78,
+    " acidente."
+   ]
+  ]
+ },
+ {
+  "start": 60.38,
+  "end": 62.52,
+  "text": " O combustível derretido ainda está lá embaixo.",
+  "words": [
+   [
+    60.38,
+    60.54,
+    " O"
+   ],
+   [
+    60.54,
+    60.94,
+    " combustível"
+   ],
+   [
+    60.94,
+    61.46,
+    " derretido"
+   ],
+   [
+    61.46,
+    61.74,
+    " ainda"
+   ],
+   [
+    61.74,
+    61.98,
+    " está"
+   ],
+   [
+    61.98,
+    62.18,
+    " lá"
+   ],
+   [
+    62.18,
+    62.52,
+    " embaixo."
+   ]
+  ]
+ }
+]

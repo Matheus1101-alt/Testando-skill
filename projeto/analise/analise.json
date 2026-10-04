@@ -1,0 +1,575 @@
+{
+ "clipes": [
+  {
+   "id": "C01",
+   "arquivo": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/6895b53d-Paper_collage_animation_assembly_20261003220436.mp4",
+   "largura": 1280,
+   "altura": 720,
+   "fps": 24.0,
+   "fps_frac": "24",
+   "quadros": 144,
+   "duracao_s": 6.016,
+   "codec": "h264",
+   "tem_audio": true,
+   "encoder": "Google",
+   "movimento_0_5s": [
+    3.8,
+    3.0,
+    2.3,
+    14.9,
+    4.3,
+    1.3,
+    0.4,
+    2.7,
+    0.3,
+    0.4,
+    0.3,
+    0.3
+   ],
+   "assenta_em_s": 4.0,
+   "flash_inicial": true,
+   "inicio_seguro_quadro": 1
+  },
+  {
+   "id": "C02",
+   "arquivo": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/f4958fea-Transform_image_into_paper_collage_20261003220439.mp4",
+   "largura": 1280,
+   "altura": 720,
+   "fps": 24.0,
+   "fps_frac": "24",
+   "quadros": 144,
+   "duracao_s": 6.016,
+   "codec": "h264",
+   "tem_audio": true,
+   "encoder": "Google",
+   "movimento_0_5s": [
+    3.6,
+    2.4,
+    2.5,
+    14.8,
+    3.7,
+    0.5,
+    0.4,
+    2.7,
+    0.6,
+    1.7,
+    0.3,
+    0.3
+   ],
+   "assenta_em_s": 5.0,
+   "flash_inicial": true,
+   "inicio_seguro_quadro": 1
+  },
+  {
+   "id": "C03",
+   "arquivo": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/4c4df957-Paper_collage_animation_assembly_20261003220443.mp4",
+   "largura": 1280,
+   "altura": 720,
+   "fps": 24.0,
+   "fps_frac": "24",
+   "quadros": 144,
+   "duracao_s": 6.016,
+   "codec": "h264",
+   "tem_audio": true,
+   "encoder": "Google",
+   "movimento_0_5s": [
+    3.0,
+    3.6,
+    13.1,
+    5.2,
+    2.3,
+    0.4,
+    0.5,
+    0.2,
+    0.2,
+    0.3,
+    0.3,
+    0.5
+   ],
+   "assenta_em_s": 2.5,
+   "flash_inicial": true,
+   "inicio_seguro_quadro": 1
+  },
+  {
+   "id": "C04",
+   "arquivo": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/82e64343-Paper_collage_animation_assembly_20261003220449.mp4",
+   "largura": 1280,
+   "altura": 720,
+   "fps": 24.0,
+   "fps_frac": "24",
+   "quadros": 144,
+   "duracao_s": 6.016,
+   "codec": "h264",
+   "tem_audio": true,
+   "encoder": "Google",
+   "movimento_0_5s": [
+    2.4,
+    0.4,
+    3.0,
+    5.4,
+    1.9,
+    1.0,
+    3.1,
+    1.6,
+    1.9,
+    0.7,
+    0.3,
+    0.2
+   ],
+   "assenta_em_s": 4.5,
+   "flash_inicial": true,
+   "inicio_seguro_quadro": 28
+  },
+  {
+   "id": "C05",
+   "arquivo": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/1e253ae9-Paper_collage_animation_creation_20261003220455.mp4",
+   "largura": 1280,
+   "altura": 720,
+   "fps": 24.0,
+   "fps_frac": "24",
+   "quadros": 144,
+   "duracao_s": 6.016,
+   "codec": "h264",
+   "tem_audio": true,
+   "encoder": "Google",
+   "movimento_0_5s": [
+    5.8,
+    3.6,
+    9.3,
+    1.4,
+    2.5,
+    0.8,
+    0.8,
+    0.4,
+    0.2,
+    0.4,
+    0.3,
+    0.5
+   ],
+   "assenta_em_s": 2.5,
+   "flash_inicial": true,
+   "inicio_seguro_quadro": 1
+  },
+  {
+   "id": "C06",
+   "arquivo": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/55146960-Create_paper_collage_animation_20261003220501.mp4",
+   "largura": 1280,
+   "altura": 720,
+   "fps": 24.0,
+   "fps_frac": "24",
+   "quadros": 144,
+   "duracao_s": 6.016,
+   "codec": "h264",
+   "tem_audio": true,
+   "encoder": "Google",
+   "movimento_0_5s": [
+    8.5,
+    3.7,
+    8.0,
+    6.7,
+    5.3,
+    1.5,
+    0.4,
+    0.5,
+    0.3,
+    0.3,
+    1.0,
+    1.4
+   ],
+   "assenta_em_s": 6.0,
+   "flash_inicial": true,
+   "inicio_seguro_quadro": 1
+  },
+  {
+   "id": "C07",
+   "arquivo": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/b84ff97a-Transform_image_into_paper_collage_20261003220507.mp4",
+   "largura": 1280,
+   "altura": 720,
+   "fps": 24.0,
+   "fps_frac": "24",
+   "quadros": 144,
+   "duracao_s": 6.016,
+   "codec": "h264",
+   "tem_audio": true,
+   "encoder": "Google",
+   "movimento_0_5s": [
+    5.3,
+    0.9,
+    3.1,
+    12.4,
+    9.9,
+    2.9,
+    4.7,
+    2.1,
+    0.4,
+    0.4,
+    0.4,
+    0.2
+   ],
+   "assenta_em_s": 4.0,
+   "flash_inicial": true,
+   "inicio_seguro_quadro": 2
+  },
+  {
+   "id": "C08",
+   "arquivo": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/bb88ec6d-Paper_collage_animation_assembly_20261003220514.mp4",
+   "largura": 1280,
+   "altura": 720,
+   "fps": 24.0,
+   "fps_frac": "24",
+   "quadros": 144,
+   "duracao_s": 6.016,
+   "codec": "h264",
+   "tem_audio": true,
+   "encoder": "Google",
+   "movimento_0_5s": [
+    4.2,
+    5.7,
+    5.5,
+    12.2,
+    0.3,
+    2.1,
+    0.3,
+    2.1,
+    1.5,
+    0.3,
+    0.6,
+    1.4
+   ],
+   "assenta_em_s": 6.0,
+   "flash_inicial": true,
+   "inicio_seguro_quadro": 1
+  },
+  {
+   "id": "C09",
+   "arquivo": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/2020c969-Create_paper-collage_animation_20261003220519.mp4",
+   "largura": 1280,
+   "altura": 720,
+   "fps": 24.0,
+   "fps_frac": "24",
+   "quadros": 144,
+   "duracao_s": 6.016,
+   "codec": "h264",
+   "tem_audio": true,
+   "encoder": "Google",
+   "movimento_0_5s": [
+    3.0,
+    2.2,
+    2.5,
+    2.3,
+    2.9,
+    0.4,
+    1.0,
+    1.1,
+    0.7,
+    0.4,
+    0.3,
+    0.2
+   ],
+   "assenta_em_s": 4.0,
+   "flash_inicial": true,
+   "inicio_seguro_quadro": 18
+  },
+  {
+   "id": "C10",
+   "arquivo": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/cf1ad5eb-Paper_collage_animation_creation_20261003220526.mp4",
+   "largura": 1280,
+   "altura": 720,
+   "fps": 24.0,
+   "fps_frac": "24",
+   "quadros": 144,
+   "duracao_s": 6.016,
+   "codec": "h264",
+   "tem_audio": true,
+   "encoder": "Google",
+   "movimento_0_5s": [
+    5.5,
+    2.1,
+    4.2,
+    3.8,
+    1.2,
+    0.6,
+    0.9,
+    4.0,
+    0.3,
+    0.3,
+    0.3,
+    0.2
+   ],
+   "assenta_em_s": 4.0,
+   "flash_inicial": true,
+   "inicio_seguro_quadro": 4
+  },
+  {
+   "id": "C11",
+   "arquivo": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/3033fc77-Paper_collage_animation_tutorial_20261003220531.mp4",
+   "largura": 1280,
+   "altura": 720,
+   "fps": 24.0,
+   "fps_frac": "24",
+   "quadros": 144,
+   "duracao_s": 6.016,
+   "codec": "h264",
+   "tem_audio": true,
+   "encoder": "Google",
+   "movimento_0_5s": [
+    2.8,
+    1.0,
+    5.3,
+    8.8,
+    4.0,
+    1.1,
+    0.6,
+    0.7,
+    0.3,
+    1.0,
+    1.3,
+    0.8
+   ],
+   "assenta_em_s": 5.5,
+   "flash_inicial": true,
+   "inicio_seguro_quadro": 1
+  },
+  {
+   "id": "C12",
+   "arquivo": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/297eab73-Paper_collage_animation_generation_20261003220537.mp4",
+   "largura": 1280,
+   "altura": 720,
+   "fps": 24.0,
+   "fps_frac": "24",
+   "quadros": 144,
+   "duracao_s": 6.016,
+   "codec": "h264",
+   "tem_audio": true,
+   "encoder": "Google",
+   "movimento_0_5s": [
+    5.8,
+    0.5,
+    4.1,
+    9.3,
+    4.9,
+    1.0,
+    0.3,
+    0.4,
+    1.1,
+    0.4,
+    0.3,
+    0.3
+   ],
+   "assenta_em_s": 4.5,
+   "flash_inicial": true,
+   "inicio_seguro_quadro": 1
+  },
+  {
+   "id": "C13",
+   "arquivo": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/eab8bb21-Transform_image_into_paper_anima__20261003220542.mp4",
+   "largura": 1280,
+   "altura": 720,
+   "fps": 24.0,
+   "fps_frac": "24",
+   "quadros": 144,
+   "duracao_s": 6.016,
+   "codec": "h264",
+   "tem_audio": true,
+   "encoder": "Google",
+   "movimento_0_5s": [
+    3.3,
+    2.6,
+    7.7,
+    9.2,
+    4.4,
+    0.3,
+    1.6,
+    2.2,
+    2.5,
+    0.4,
+    0.4,
+    0.3
+   ],
+   "assenta_em_s": 4.5,
+   "flash_inicial": true,
+   "inicio_seguro_quadro": 1
+  },
+  {
+   "id": "C14",
+   "arquivo": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/e3d5dcd4-Create_paper_collage_animation_20261003220547.mp4",
+   "largura": 1280,
+   "altura": 720,
+   "fps": 24.0,
+   "fps_frac": "24",
+   "quadros": 144,
+   "duracao_s": 6.016,
+   "codec": "h264",
+   "tem_audio": true,
+   "encoder": "Google",
+   "movimento_0_5s": [
+    3.6,
+    1.2,
+    9.2,
+    14.1,
+    3.1,
+    0.5,
+    0.9,
+    1.3,
+    3.6,
+    3.0,
+    0.3,
+    0.5
+   ],
+   "assenta_em_s": 5.0,
+   "flash_inicial": true,
+   "inicio_seguro_quadro": 7
+  }
+ ],
+ "narracao": {
+  "codec": "pcm_s16le",
+  "taxa": 24000,
+  "canais": 1,
+  "duracao_s": 62.96,
+  "I": -18.2,
+  "TP": -1.1,
+  "LRA": 3.1,
+  "I_estereo": -15.2,
+  "silencios": [
+   [
+    0.0,
+    0.284
+   ],
+   [
+    3.075,
+    3.285
+   ],
+   [
+    4.942,
+    5.327
+   ],
+   [
+    6.386,
+    6.802
+   ],
+   [
+    6.803,
+    7.23
+   ],
+   [
+    8.759,
+    9.044
+   ],
+   [
+    12.451,
+    12.802
+   ],
+   [
+    12.913,
+    13.093
+   ],
+   [
+    15.105,
+    15.39
+   ],
+   [
+    15.516,
+    15.727
+   ],
+   [
+    17.871,
+    18.078
+   ],
+   [
+    20.225,
+    20.532
+   ],
+   [
+    20.553,
+    20.782
+   ],
+   [
+    22.512,
+    22.757
+   ],
+   [
+    22.764,
+    23.171
+   ],
+   [
+    24.037,
+    24.34
+   ],
+   [
+    25.968,
+    26.434
+   ],
+   [
+    29.907,
+    30.491
+   ],
+   [
+    32.1,
+    32.395
+   ],
+   [
+    32.59,
+    32.757
+   ],
+   [
+    33.992,
+    34.163
+   ],
+   [
+    35.086,
+    35.507
+   ],
+   [
+    35.51,
+    35.905
+   ],
+   [
+    37.964,
+    38.542
+   ],
+   [
+    41.712,
+    42.31
+   ],
+   [
+    44.535,
+    45.122
+   ],
+   [
+    45.731,
+    45.882
+   ],
+   [
+    48.778,
+    49.08
+   ],
+   [
+    52.598,
+    53.364
+   ],
+   [
+    54.248,
+    54.54
+   ],
+   [
+    57.119,
+    57.627
+   ],
+   [
+    59.73,
+    60.325
+   ],
+   [
+    62.561,
+    62.96
+   ]
+  ]
+ },
+ "trilha": null,
+ "resolucoes": {
+  "1280x720": 14
+ },
+ "fps": {
+  "24.0": 14
+ }
+}

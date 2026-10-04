@@ -1,0 +1,217 @@
+{
+ "nome": "colagem",
+ "analise": "analise.json",
+ "arquivos": {
+  "clipes": {
+   "C01": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/6895b53d-Paper_collage_animation_assembly_20261003220436.mp4",
+   "C02": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/f4958fea-Transform_image_into_paper_collage_20261003220439.mp4",
+   "C03": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/4c4df957-Paper_collage_animation_assembly_20261003220443.mp4",
+   "C04": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/82e64343-Paper_collage_animation_assembly_20261003220449.mp4",
+   "C05": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/1e253ae9-Paper_collage_animation_creation_20261003220455.mp4",
+   "C06": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/55146960-Create_paper_collage_animation_20261003220501.mp4",
+   "C07": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/b84ff97a-Transform_image_into_paper_collage_20261003220507.mp4",
+   "C08": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/bb88ec6d-Paper_collage_animation_assembly_20261003220514.mp4",
+   "C09": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/2020c969-Create_paper-collage_animation_20261003220519.mp4",
+   "C10": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/cf1ad5eb-Paper_collage_animation_creation_20261003220526.mp4",
+   "C11": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/3033fc77-Paper_collage_animation_tutorial_20261003220531.mp4",
+   "C12": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/297eab73-Paper_collage_animation_generation_20261003220537.mp4",
+   "C13": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/eab8bb21-Transform_image_into_paper_anima__20261003220542.mp4",
+   "C14": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/e3d5dcd4-Create_paper_collage_animation_20261003220547.mp4"
+  },
+  "narracao": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/346051f5-Generated_Audio_October_03_2026_-_11_06PM.wav",
+  "trilha": null
+ },
+ "video": {},
+ "audio": {
+  "trilha_inicio_s": 0
+ },
+ "frases": [
+  {
+   "n": 1,
+   "inicio": 0.284,
+   "texto": "26 de abril de 1986, usina nuclear de Chernobyl, Ucrânia Soviética."
+  },
+  {
+   "n": 2,
+   "inicio": 7.23,
+   "texto": "À 1h23 da madrugada, um operador do Reator 4 aperta o botão de desligamento de emergência."
+  },
+  {
+   "n": 3,
+   "inicio": 13.093,
+   "texto": "O botão encerrava um teste de segurança."
+  },
+  {
+   "n": 4,
+   "inicio": 15.727,
+   "texto": "Queriam saber se as turbinas, ao desacelerar, ainda alimentariam as bombas de resfriamento."
+  },
+  {
+   "n": 5,
+   "inicio": 20.782,
+   "texto": "O teste já atrasara 10 horas."
+  },
+  {
+   "n": 6,
+   "inicio": 23.171,
+   "texto": "Durante a preparação, a potência caiu abaixo do previsto."
+  },
+  {
+   "n": 7,
+   "inicio": 26.434,
+   "texto": "Os operadores retiraram quase todas as barras de controle para recuperá-la."
+  },
+  {
+   "n": 8,
+   "inicio": 30.491,
+   "texto": "Isso deixou o reator instável."
+  },
+  {
+   "n": 9,
+   "inicio": 32.757,
+   "texto": "Quando o botão foi pressionado, a potência disparou."
+  },
+  {
+   "n": 10,
+   "inicio": 35.905,
+   "texto": "Duas explosões abriram o teto do prédio."
+  },
+  {
+   "n": 11,
+   "inicio": 38.542,
+   "texto": "Em minutos, bombeiros chegaram para combater o fogo no telhado."
+  },
+  {
+   "n": 12,
+   "inicio": 42.31,
+   "texto": "Nenhuma evacuação foi ordenada naquela noite."
+  },
+  {
+   "n": 13,
+   "inicio": 45.122,
+   "texto": "Pripyat, a cidade vizinha, só foi esvaziada na tarde seguinte."
+  },
+  {
+   "n": 14,
+   "inicio": 49.08,
+   "texto": "Cerca de 49 mil pessoas partiram com poucos pertences."
+  },
+  {
+   "n": 15,
+   "inicio": 53.364,
+   "texto": "Dois dias depois, sensores de uma usina sueca detectaram a radiação."
+  },
+  {
+   "n": 16,
+   "inicio": 57.627,
+   "texto": "Só então Moscou reconheceu o acidente."
+  },
+  {
+   "n": 17,
+   "inicio": 60.325,
+   "texto": "O combustível derretido ainda está lá embaixo."
+  }
+ ],
+ "fim_ultima_palavra": 62.561,
+ "cortes": [
+  {
+   "frase": 1,
+   "clipe": "C05",
+   "de": 18,
+   "ate": 143,
+   "nota": "usina + mapa; etiqueta 26 ABR 1986 entra no fim"
+  },
+  {
+   "frase": 2,
+   "clipe": "C04",
+   "de": 4,
+   "ate": 95,
+   "nota": "painel PARADA DE EMERGÊNCIA, operador, etiqueta 01:23; para antes do carimbo GLISTECA (q96)"
+  },
+  {
+   "frase": 3,
+   "clipe": "C14",
+   "de": 10,
+   "ate": 73,
+   "nota": "turbina (o teste era da turbina); para antes da etiqueta 'No ltp chile pritrer' (q70+)"
+  },
+  {
+   "frase": 4,
+   "clipe": "C01",
+   "de": 1,
+   "ate": 134,
+   "nota": "bomba (frase 4) e a etiqueta ATRASO DE 10 HORAS entra perto da frase 5"
+  },
+  {
+   "frase": 6,
+   "clipe": "C02",
+   "de": 12,
+   "ate": 143,
+   "nota": "medidor com ponteiro baixo (frase 6); barras entram em 'barras de controle' (frase 7)"
+  },
+  {
+   "frase": 8,
+   "clipe": "C09",
+   "de": 28,
+   "ate": 81,
+   "nota": "barras + medidor; para antes do texto sem sentido (q82)"
+  },
+  {
+   "frase": 9,
+   "clipe": "C10",
+   "de": 58,
+   "ate": 134,
+   "nota": "botão vermelho monta, medidor sobe ao máximo"
+  },
+  {
+   "frase": 10,
+   "clipe": "C08",
+   "de": 22,
+   "ate": 85,
+   "nota": "explosão vermelha + usina + caminhão de bombeiro; para antes dos rótulos sem sentido (q90+)"
+  },
+  {
+   "frase": 11,
+   "clipe": "C06",
+   "de": 18,
+   "ate": 71,
+   "nota": "bombeiros + reator destruído; para antes de 'an l sior unit' (q72)"
+  },
+  {
+   "frase": 12,
+   "clipe": "C12",
+   "de": 9,
+   "ate": 143,
+   "nota": "prédios de Pripyat vazios; ônibus chegam na frase 13; etiqueta PRIPYAT no fim"
+  },
+  {
+   "frase": 14,
+   "clipe": "C03",
+   "de": 30,
+   "ate": 132,
+   "nota": "fila para o ônibus + carimbo 49 MIL"
+  },
+  {
+   "frase": 15,
+   "clipe": "C11",
+   "de": 52,
+   "ate": 143,
+   "nota": "avião soviético + fio vermelho pelo mapa da Europa; pula o avião moderno de q40-50"
+  },
+  {
+   "frase": 16,
+   "clipe": "C07",
+   "de": 40,
+   "ate": 83,
+   "nota": "autoridades à mesa; para antes do carimbo LUCCEPTED (q84)"
+  },
+  {
+   "frase": 17,
+   "clipe": "C13",
+   "de": 9,
+   "ate": 143,
+   "nota": "comboio de ônibus + carimbo ZONA DE EXCLUSÃO; fecha o vídeo"
+  }
+ ],
+ "remendos": {}
+}
