@@ -1,0 +1,210 @@
+{
+ "_sobre": "EXEMPLO de plano já aprovado e renderizado (nicho: história/true crime, estética colagem de papel, 10 clipes Veo de 8 s, 1280x720 a 24 fps, narração de 61 s). Serve só para mostrar o formato; caminhos relativos ao plano. Notas em cada corte explicam a escolha do trecho.",
+ "nome": "alcatraz_final",
+ "analise": "analise.json",
+ "arquivos": {
+  "clipes": {
+   "C01": "clipes/C01.mp4",
+   "C02": "clipes/C02.mp4",
+   "C03": "clipes/C03.mp4",
+   "C04": "clipes/C04.mp4",
+   "C05": "clipes/C05.mp4",
+   "C06": "clipes/C06.mp4",
+   "C07": "clipes/C07.mp4",
+   "C08": "clipes/C08.mp4",
+   "C09": "clipes/C09.mp4",
+   "C10": "clipes/C10.mp4"
+  },
+  "narracao": "audio/narracao.wav",
+  "trilha": "audio/trilha.mp3"
+ },
+ "video": {},
+ "audio": {
+  "trilha_inicio_s": 10
+ },
+ "frases": [
+  {
+   "n": 1,
+   "inicio": 0.212,
+   "texto": "12 de junho de 1962, Alcatraz, Baía de São Francisco."
+  },
+  {
+   "n": 2,
+   "inicio": 6.162,
+   "texto": "Na ronda da manhã, um guarda chama um preso."
+  },
+  {
+   "n": 3,
+   "inicio": 9.345,
+   "texto": "A cabeça na cama é falsa, feita de papel, sabão e cabelo humano."
+  },
+  {
+   "n": 4,
+   "inicio": 14.167,
+   "texto": "Frank Morris e os irmãos John e Clarence Anglin tinham sumido."
+  },
+  {
+   "n": 5,
+   "inicio": 18.437,
+   "texto": "Durante meses, eles cavaram atrás das celas com colheres e uma broca improvisada."
+  },
+  {
+   "n": 6,
+   "inicio": 23.623,
+   "texto": "Colaram dezenas de capas de chuva pra fazer um bote."
+  },
+  {
+   "n": 7,
+   "inicio": 27.081,
+   "texto": "Um quarto homem, Allen West, não conseguiu sair a tempo."
+  },
+  {
+   "n": 8,
+   "inicio": 30.605,
+   "texto": "Na noite anterior, os três remaram pela baía, de água gelada e correnteza forte."
+  },
+  {
+   "n": 9,
+   "inicio": 36.092,
+   "texto": "Dias depois, a polícia encontra um remo e pedaços de um colete salva-vidas."
+  },
+  {
+   "n": 10,
+   "inicio": 40.968,
+   "texto": "Em 29 anos, o presídio federal registrara 14 tentativas de fuga."
+  },
+  {
+   "n": 11,
+   "inicio": 46.244,
+   "texto": "Oficialmente, nenhuma havia dado certo."
+  },
+  {
+   "n": 12,
+   "inicio": 48.992,
+   "texto": "Em 1963, Alcatraz fecha."
+  },
+  {
+   "n": 13,
+   "inicio": 52.222,
+   "texto": "Em 1979, o FBI encerra o caso e conclui que os três provavelmente se afogaram."
+  },
+  {
+   "n": 14,
+   "inicio": 58.632,
+   "texto": "Nenhum dos três corpos jamais foi encontrado."
+  }
+ ],
+ "fim_ultima_palavra": 60.855,
+ "cortes": [
+  {
+   "frase": 1,
+   "clipe": "C07",
+   "de": 46,
+   "ate": 191,
+   "nota": "ilha, farol e alfinete — abertura"
+  },
+  {
+   "frase": 2,
+   "clipe": "C08",
+   "de": 120,
+   "ate": 191,
+   "nota": "guarda diante da cela + 12 DE JUNHO"
+  },
+  {
+   "frase": 3,
+   "clipe": "C05",
+   "de": 76,
+   "ate": 191,
+   "nota": "cabeça falsa + SABONETE; evita jornal falso (q24–60)"
+  },
+  {
+   "frase": 4,
+   "clipe": "C04",
+   "de": 22,
+   "ate": 64,
+   "nota": "cortiça vazia → três fotos → MORRIS E ANGLIN; para antes de 'Prak odanline' (q66)"
+  },
+  {
+   "frase": 5,
+   "clipe": "C02",
+   "de": 67,
+   "ate": 191,
+   "nota": "colher, grade, furadeira"
+  },
+  {
+   "frase": 6,
+   "clipe": "C10",
+   "de": 80,
+   "ate": 191,
+   "nota": "capas de chuva; evita jornal falso (até q79); cobre a frase 7 (sem clipe)"
+  },
+  {
+   "frase": 8,
+   "clipe": "C03",
+   "de": 61,
+   "ate": 191,
+   "nota": "bote com os três"
+  },
+  {
+   "frase": 9,
+   "clipe": "C01",
+   "de": 38,
+   "ate": 191,
+   "nota": "remo e colete chegando"
+  },
+  {
+   "frase": 10,
+   "clipe": "C09",
+   "de": 7,
+   "ate": 191,
+   "nota": "riscos + 14 TENTATIVAS; cobre a frase 11"
+  },
+  {
+   "frase": 12,
+   "clipe": "C06",
+   "de": 115,
+   "ate": 191,
+   "nota": "grade + ANO 1963"
+  },
+  {
+   "frase": 13,
+   "clipe": "C03",
+   "de": 38,
+   "ate": 191,
+   "nota": "REPETIÇÃO — não há clipe para FBI/1979"
+  },
+  {
+   "frase": 14,
+   "clipe": "C07",
+   "de": 94,
+   "ate": 191,
+   "nota": "REPETIÇÃO — fechamento em câmera lenta"
+  }
+ ],
+ "remendos": {
+  "C07": [
+   {
+    "x": 79,
+    "y": 59,
+    "w": 358,
+    "h": 48,
+    "sx": 79,
+    "sy": 109,
+    "borda": 5,
+    "nota": "tira 'Thousaeng ws a baclar…'"
+   },
+   {
+    "x": 849,
+    "y": 604,
+    "w": 374,
+    "h": 48,
+    "sx": 469,
+    "sy": 612,
+    "borda": 4,
+    "borda_inferior": false,
+    "desde": 106,
+    "nota": "tira 'The offer were ment…'; carimbo passa por cima até q105; borda inferior seca no topo da fita (y=651)"
+   }
+  ]
+ }
+}
