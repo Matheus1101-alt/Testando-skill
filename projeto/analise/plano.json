@@ -19,11 +19,12 @@
    "C14": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/e3d5dcd4-Create_paper_collage_animation_20261003220547.mp4"
   },
   "narracao": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/346051f5-Generated_Audio_October_03_2026_-_11_06PM.wav",
-  "trilha": null
+  "trilha": "/root/.claude/uploads/0303f2a2-9b79-5554-9b93-5db19136a892/9fb05761-good_b_music-honor-and-sword-main-11222.mp3"
  },
  "video": {},
  "audio": {
-  "trilha_inicio_s": 0
+  "trilha_inicio_s": 10,
+  "ducking_profundidade_db": 5
  },
  "frases": [
   {
@@ -132,8 +133,8 @@
    "frase": 3,
    "clipe": "C14",
    "de": 10,
-   "ate": 73,
-   "nota": "turbina (o teste era da turbina); para antes da etiqueta 'No ltp chile pritrer' (q70+)"
+   "ate": 68,
+   "nota": "turbina; para antes da etiqueta 'No ltp…' (q70)"
   },
   {
    "frase": 4,
@@ -153,8 +154,8 @@
    "frase": 8,
    "clipe": "C09",
    "de": 28,
-   "ate": 81,
-   "nota": "barras + medidor; para antes do texto sem sentido (q82)"
+   "ate": 77,
+   "nota": "barras + medidor; para antes do texto sem sentido (q79)"
   },
   {
    "frase": 9,
@@ -173,9 +174,9 @@
   {
    "frase": 11,
    "clipe": "C06",
-   "de": 18,
-   "ate": 71,
-   "nota": "bombeiros + reator destruído; para antes de 'an l sior unit' (q72)"
+   "de": 4,
+   "ate": 65,
+   "nota": "bombeiros + reator destruído; para antes de 'an l sior unit' (q66)"
   },
   {
    "frase": 12,
@@ -201,16 +202,16 @@
   {
    "frase": 16,
    "clipe": "C07",
-   "de": 40,
-   "ate": 83,
-   "nota": "autoridades à mesa; para antes do carimbo LUCCEPTED (q84)"
+   "de": 24,
+   "ate": 67,
+   "nota": "autoridades à mesa; para antes de 'ACCEPTED' e do carimbo LUCCEPTED (q68+)"
   },
   {
    "frase": 17,
    "clipe": "C13",
-   "de": 9,
+   "de": 50,
    "ate": 143,
-   "nota": "comboio de ônibus + carimbo ZONA DE EXCLUSÃO; fecha o vídeo"
+   "nota": "comboio já na estrada; carimbo ZONA DE EXCLUSÃO entra logo após a última palavra, antes do fade"
   }
  ],
  "remendos": {}
